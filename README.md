@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sudarshan%20Rijal&fontSize=70&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Sudarshan%20Rijal&fontSize=70&fontColor=bee3f8&animation=twinkling" />
 </p>
 
 <h3 align="center">
@@ -125,5 +125,5 @@ alt="Typing SVG"
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=100&section=footer"/>
 </p>
