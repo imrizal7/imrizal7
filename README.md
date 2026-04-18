@@ -19,7 +19,7 @@
 
 <p align="center">
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Learning+C+%26+C%2B%2B;Exploring+Software+Development;Building+One+Commit+at+a+Time+%F0%9F%9A%80"
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Learning+C%2B%2B+%26+Python;Exploring+Software+Development;Building+One+Commit+at+a+Time+%F0%9F%9A%80"
 alt="Typing SVG"
 />
 </p>
@@ -33,7 +33,7 @@ alt="Typing SVG"
 ## 👋 About Me
 
 - 🎓 First-year **Computer Engineering** student at **Kathmandu University, Nepal**
-- 💻 Currently learning **C** and **C++**
+- 💻 Proficient in **C**, currently learning **C++** and **Python**
 - 🌱 Exploring the foundations of software development and core CS concepts
 - 🔍 Curious about how computers actually work — from logic gates to software
 - 🚀 On a journey to grow one commit at a time
@@ -47,6 +47,8 @@ alt="Typing SVG"
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
 &nbsp;&nbsp;
