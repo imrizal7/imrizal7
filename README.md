@@ -1,18 +1,135 @@
-# 💫 About Me:
-🎓 First Year Computer Engineering Student at Kathmandu University .<br>🚀 Passionate about coding and technology.<br>🤝 Open to connecting and collaborating on projects.<br>🎮 Gaming & Sports Enthusiast.<br>📍 Nepal.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sudarshan%20Rijal&fontSize=70&animation=twinkling" />
+</p>
 
+<h3 align="center">
+<samp>
+   &gt; Hey There! I am
+   <b><a target="_blank" href="https://github.com/imrizal7">Sudarshan Rijal</a></b>
+</samp>
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rizal0.7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rizalsud7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rijalsudarshan7@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=imrizal7&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=imrizal7&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=imrizal7&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+<samp>
+「 First Year Computer Engineering Student at <b>Kathmandu University, Nepal</b> 🇳🇵 」
+</samp>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Learning+C+%26+C%2B%2B;Exploring+Software+Development;Building+One+Commit+at+a+Time+%F0%9F%9A%80"
+alt="Typing SVG"
+/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
+
+---
+
+## 👋 About Me
+
+- 🎓 First-year **Computer Engineering** student at **Kathmandu University, Nepal**
+- 💻 Currently learning **C** and **C++**
+- 🌱 Exploring the foundations of software development and core CS concepts
+- 🔍 Curious about how computers actually work — from logic gates to software
+- 🚀 On a journey to grow one commit at a time
+- 📬 Reach me at: **rijalsudarshan7@gmail.com**
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
+</p>
+
+---
+
+## 🧠 Interests
+
+- 💡 Software Development — building things that actually work
+- ⚙️ Core Computer Engineering — OS, architecture, networks, systems
+- 🗣️ Learning new programming languages as I grow
+- 🧩 Problem solving and algorithmic thinking
+
+---
+
+## ⚡ Philosophy
+
+> *"First, solve the problem. Then, write the code."*
+
+- Start small, be consistent
+- Every expert was once a beginner
+- Build, break, learn, repeat
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imrizal7&theme=radical" alt="Streak Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=imrizal7&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrizal7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=imrizal7&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+## 🐍 Contribution Journey
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:rijalsudarshan7@gmail.com">
+<img src="https://img.shields.io/badge/Email-rijalsudarshan7@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<br><br>
+
+<a href="https://www.instagram.com/rizal0.7/">
+<img src="https://img.shields.io/badge/Instagram-rizal0.7-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<br><br>
+
+<a href="https://x.com/rizalsud7">
+<img src="https://img.shields.io/badge/X-rizalsud7-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⚡ Growing every day — one line of code at a time
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
