@@ -107,6 +107,12 @@ alt="Typing SVG"
 </a>
 <br><br>
 
+<a href="https://www.linkedin.com/in/sudarshan-rijal/">
+  <img src="https://img.shields.io/badge/LinkedIn-sudarshan--rijal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<br><br>
+
+
 <a href="https://www.instagram.com/rizal0.7/">
 <img src="https://img.shields.io/badge/Instagram-rizal0.7-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
