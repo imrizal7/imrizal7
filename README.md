@@ -78,26 +78,6 @@ alt="Typing SVG"
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imrizal7&theme=radical" alt="Streak Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=imrizal7&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrizal7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=imrizal7&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
