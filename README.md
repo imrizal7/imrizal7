@@ -22,16 +22,22 @@ alt="Typing SVG"
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 </p>
+
 ---
+
 ## 👋 About Me
+
 - 🎓 First-year **Computer Engineering** student at **Kathmandu University, Nepal**
 - 💻 Proficient in **C**, currently learning **C++** and **Python**
 - 🌱 Exploring the foundations of software development and core CS concepts
 - 🔍 Curious about how computers actually work — from logic gates to software
 - 🚀 On a journey to grow one commit at a time
 - 📬 Reach me at: **rijalsudarshan7@gmail.com**
+
 ---
+
 ## 🛠 Languages & Tools
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
 &nbsp;&nbsp;
@@ -45,20 +51,30 @@ alt="Typing SVG"
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
 </p>
+
 ---
+
 ## 🧠 Interests
+
 - 💡 Software Development — building things that actually work
 - ⚙️ Core Computer Engineering — OS, architecture, networks, systems
 - 🗣️ Learning new programming languages as I grow
 - 🧩 Problem solving and algorithmic thinking
+
 ---
+
 ## ⚡ Philosophy
+
 > *"First, solve the problem. Then, write the code."*
+
 - Start small, be consistent
 - Every expert was once a beginner
 - Build, break, learn, repeat
+
 ---
+
 ## 📫 Connect With Me
+
 <p align="center">
 <a href="https://sudarshanrijal.com.np" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-sudarshanrijal.com.np-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
@@ -80,7 +96,9 @@ alt="Typing SVG"
 <img src="https://img.shields.io/badge/X-rizalsud7-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 </p>
+
 ---
+
 <p align="center">
 ⚡ Growing every day — one line of code at a time
 </p>
