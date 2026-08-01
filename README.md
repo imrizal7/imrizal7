@@ -33,6 +33,7 @@ alt="Typing SVG"
 - 🔍 Curious about how computers actually work — from logic gates to software
 - 🚀 On a journey to grow one commit at a time
 - 📬 Reach me at: **rijalsudarshan7@gmail.com**
+- 🙋 Portfolio: **https://www.sudarshanrijal.com.np/**
 
 ---
 
