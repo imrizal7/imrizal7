@@ -10,7 +10,7 @@
 <br>
 <p align="center">
 <samp>
-「 First Year Computer Engineering Student at <b>Kathmandu University, Nepal</b> 🇳🇵 」
+「 Second Year Computer Engineering Student at <b>Kathmandu University, Nepal</b> 🇳🇵 」
 </samp>
 </p>
 <p align="center">
@@ -27,11 +27,10 @@ alt="Typing SVG"
 
 ## 👋 About Me
 
-- 🎓 First-year **Computer Engineering** student at **Kathmandu University, Nepal**
+- 🎓 Second-year **Computer Engineering** student at **Kathmandu University, Nepal**
 - 💻 Proficient in **C**, currently learning **C++** and **Python**
 - 🌱 Exploring the foundations of software development and core CS concepts
 - 🔍 Curious about how computers actually work — from logic gates to software
-- 🚀 On a journey to grow one commit at a time
 - 📬 Reach me at: **rijalsudarshan7@gmail.com**
 - 🙋 Portfolio: **https://www.sudarshanrijal.com.np/**
 
@@ -61,6 +60,7 @@ alt="Typing SVG"
 - ⚙️ Core Computer Engineering — OS, architecture, networks, systems
 - 🗣️ Learning new programming languages as I grow
 - 🧩 Problem solving and algorithmic thinking
+- 🛡️ Cybersecurity  Enthusiast
 
 ---
 
